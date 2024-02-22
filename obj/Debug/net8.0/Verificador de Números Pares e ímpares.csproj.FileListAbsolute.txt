@@ -1,0 +1,14 @@
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\bin\Debug\net8.0\Verificador de Números Pares e ímpares.exe
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\bin\Debug\net8.0\Verificador de Números Pares e ímpares.deps.json
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\bin\Debug\net8.0\Verificador de Números Pares e ímpares.runtimeconfig.json
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\bin\Debug\net8.0\Verificador de Números Pares e ímpares.dll
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\bin\Debug\net8.0\Verificador de Números Pares e ímpares.pdb
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\obj\Debug\net8.0\Verificador de Números Pares e ímpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\obj\Debug\net8.0\Verificador de Números Pares e ímpares.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\obj\Debug\net8.0\Verificador de Números Pares e ímpares.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\obj\Debug\net8.0\Verificador de Números Pares e ímpares.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\obj\Debug\net8.0\Verificador de Números Pares e ímpares.dll
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\obj\Debug\net8.0\refint\Verificador de Números Pares e ímpares.dll
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\obj\Debug\net8.0\Verificador de Números Pares e ímpares.pdb
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\obj\Debug\net8.0\Verificador de Números Pares e ímpares.genruntimeconfig.cache
+C:\Users\guilh\Documents\Projetos C#\Verificador de Números Pares e ímpares\obj\Debug\net8.0\ref\Verificador de Números Pares e ímpares.dll
